@@ -10,6 +10,14 @@ This project allows you to **transcribe audio (speech-to-text)** with high accur
 
 ---
 
+## 🎥 Demo Preview  
+
+![Demo GIF](demo/demo.gif)  
+
+*(Add your demo gif in `demo/demo.gif`. If not available, you can create one using [ScreenToGif](https://www.screentogif.com/) or a screen recorder.)*  
+
+---
+
 ## 🚀 Features
 - 🎤 Convert **speech to text** using OpenAI’s Whisper model  
 - 🔊 Generate **speech from text** with TTS (Text-to-Speech) engines  
